@@ -10,7 +10,7 @@ This project is a computer vision application that determines whether an image i
 ## 🔴 Live Demo
 
 👉 **Try the live application here:**  
-https://huggingface.co/spaces/<your-username>/<your-space-name>
+[https://huggingface.co/spaces/<your-username>/<your-space-name>](https://huggingface.co/spaces/brawl7787/AIorNot)
 
 ---
 

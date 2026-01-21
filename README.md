@@ -25,7 +25,7 @@ This project is a computer vision application that determines whether an image i
 - **Architecture:** ResNet18  
 - **Framework:** FastAI / PyTorch  
 - **Task:** Binary image classification
-- **Dataset** <a href="https://www.kaggle.com/datasets/hassnainzaidi/ai-art-vs-human-art"> here </a>
+- **Dataset** <a href="https://www.kaggle.com/datasets/hassnainzaidi/ai-art-vs-human-art" target="_blank"> here </a>
 - **Classes:**  
   - `class_0` – Real image  
   - `class_1` – AI-generated image  
